@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/VANDUY-1910/nodejs-cource/issues"
   },
-  "homepage": "https://github.com/VANDUY-1910/nodejs-cource#readme"
+  "homepage": "https://github.com/VANDUY-1910/nodejs-cource#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
