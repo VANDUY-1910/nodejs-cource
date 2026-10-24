@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/VANDUY-1910/nodejs-cource#readme",
   "dependencies": {
+    "dotenv": "16.4.7",
     "express": "5.0.1"
   },
   "devDependencies": {
