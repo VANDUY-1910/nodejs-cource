@@ -15,8 +15,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 // config routes
 webRouter(app);
+//
 
 app.listen(PORT, () => {
   console.log(`My app is running on port: ${PORT}`);
-  console.log("env port: ", process.env.PORT);
+  //console.log("env port: ", process.env.PORT);
 });
